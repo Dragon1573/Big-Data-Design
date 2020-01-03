@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/out/dist/HBase_Importer" />
+    <output-test url="file://$MODULE_DIR$/out/test/HBase_Importer" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/dist" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Apache Hadoop 2.7.1" level="application" />
+    <orderEntry type="library" name="Apache HBase 1.1.5" level="application" />
+  </component>
+</module>
